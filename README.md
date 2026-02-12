@@ -27,7 +27,7 @@ I have experience building deep learning frameworks integrating sequence, struct
 
 Python | R | TensorFlow | PyTorch | Biopython | Scikit-learn  
 AlphaFold | PSSM | AACon | IUPred2A | DANPOS | PyRanges  
-HPC (SLURM) | Git | Snakemake
+HPC (SLURM) | Git | Snakemake | GRIFFIN | DELFI
 
 ---
 
