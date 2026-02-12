@@ -2,16 +2,6 @@
 
 Computational biologist | Cancer genomics | cfDNA fragmentomics | Machine learning | Cancer research
 
----
-
-## About Me
-
-I am a computational biologist working at the intersection of cancer genomics, nucleosome positioning, and machine learning. My research focuses on identifying driver mutations, modeling cancer-specific signatures, and developing computational tools for precision oncology.
-
-I have experience building deep learning frameworks integrating sequence, structural, and network-based features for mutation classification across multiple cancer types.
-
----
-
 ## Research Interests
 
 - Cancer driver mutation prediction
@@ -20,14 +10,6 @@ I have experience building deep learning frameworks integrating sequence, struct
 - Sequnece, Structure-based feature engineering
 - Machine learning in genomics
 - Early cancer detection
-
----
-
-## Tools & Technologies
-
-Python | R | TensorFlow | PyTorch | Biopython | Scikit-learn  
-AlphaFold | PSSM | AACon | IUPred2A | DANPOS | PyRanges  
-HPC (SLURM) | Git | Snakemake | GRIFFIN | DELFI
 
 ---
 
