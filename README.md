@@ -42,7 +42,7 @@ HPC (SLURM) | Git | Snakemake
 
 ## Publications
 
-[Add your Google Scholar link here](https://scholar.google.com/citations?user=BRZ8bdIAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=BRZ8bdIAAAAJ&hl=en)
 
 ---
 
