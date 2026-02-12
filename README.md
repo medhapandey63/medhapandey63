@@ -51,3 +51,6 @@ HPC (SLURM) | Git | Snakemake | GRIFFIN | DELFI
 Email: medhabioinfo@gmail.com  
 Google Scholar: [link](https://scholar.google.com/citations?user=BRZ8bdIAAAAJ&hl=en)  
 LinkedIn: www.linkedin.com/in/medhapandey63
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=medhapandey63&show_icons=true)
+
