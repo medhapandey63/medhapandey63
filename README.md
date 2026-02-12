@@ -1,4 +1,4 @@
-# Hi, I'm Medha 👋
+# Medha Pandey 👋
 
 Computational biologist | Cancer genomics | cfDNA fragmentomics | Machine learning | Cancer research
 
