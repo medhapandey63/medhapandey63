@@ -22,7 +22,5 @@ Computational biologist | Cancer genomics | cfDNA fragmentomics | Machine learni
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=medhapandey63&show_icons=true)
-
-![](https://komarev.com/ghpvc/?username=medhapandey63&color=green)
+![](https://komarev.com/ghpvc/?username=medhapandey63&color=blueviolet)
 
